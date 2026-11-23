@@ -3,8 +3,9 @@
 Working rules for running a studio of AI coding agents, from one builder running about ten products with them. Each rule is a short block you can paste into your agent's instructions (CLAUDE.md, AGENTS.md) today.
 
 - [Keep working, queue only what needs you](rules/01-keep-working.md)
+- [Four things every recurring agent job gets](rules/02-recurring-jobs.md)
 
-A new rule lands here each time it's posted on X (@n8peace). 1 so far.
+A new rule lands here each time it's posted on X (@n8peace). 2 so far.
 
 Everything in one file: [AGENTS.md](AGENTS.md).
 
